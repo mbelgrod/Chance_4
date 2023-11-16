@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Art" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 125.15 137.63">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bd94c4;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-1" points="0 71.93 12.06 88.98 101.04 10.39 98.13 0 12.06 54.89 0 71.93"/>
+  <polygon class="cls-1" points="21.21 101.04 101.04 26.2 110.6 27.86 30.77 103.53 21.21 101.04"/>
+  <polygon class="cls-1" points="102 48.39 21.21 126.82 21.21 137.63 110.6 56.13 102 48.39"/>
+  <polygon class="cls-1" points="113.1 70.27 50.52 127.23 55.3 137.63 125.15 70.27 113.1 70.27"/>
+</svg>

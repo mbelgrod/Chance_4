@@ -1,0 +1,9 @@
+/* print.css */
+
+/* Set the size for all content when printing */
+body {
+    width: 36in;
+    height: 48in;
+}
+
+/* You may need to adjust other styles for printing */

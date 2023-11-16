@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Art" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 116.47 111.29">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #adaca9;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" x="-2545.75" y="-1759.46" width="2162.03" height="2882.7"/>
+    </clipPath>
+  </defs>
+  <g class="cls-1">
+    <polygon class="cls-3" points="-1387.09 1297.91 -2273.58 -562.07 -1796.81 -1210.18 -1320.04 -930.82 -969.91 -1210.18 -723.47 -930.82 -418.65 -1210.18 125.17 -569.52 -455.89 1297.91 -1387.09 1297.91"/>
+  </g>
+</svg>
